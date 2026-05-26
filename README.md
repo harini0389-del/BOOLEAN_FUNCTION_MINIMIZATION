@@ -57,8 +57,6 @@ or(f2,s,t,u);
 endmodule
 ```
 **RTL realization**
-<img width="1237" height="541" alt="image" src="https://github.com/user-attachments/assets/d4adb425-1f41-42cb-a4ba-2632639f0b2b" />
-<img width="1232" height="581" alt="image" src="https://github.com/user-attachments/assets/27554891-18dc-413f-b07a-8c994ed90298" />
 
 **Output:**
 <img width="1907" height="569" alt="image" src="https://github.com/user-attachments/assets/c7cee0e0-40e0-42ad-a6b0-076c26f0f765" />
