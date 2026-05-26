@@ -57,7 +57,7 @@ or(f2,s,t,u);
 endmodule
 ```
 **RTL realization**
-<img width="1907" height="569" alt="image" src="https://github.com/user-attachments/assets/c7cee0e0-40e0-42ad-a6b0-076c26f0f765" />
+<img width="1745" height="999" alt="image" src="https://github.com/user-attachments/assets/032e3419-d185-468e-9c7b-dd2cd0c40538" />
 **Output:**
 
 **RTL**
@@ -65,7 +65,7 @@ endmodule
 
 **Timing Diagram**
 <img width="1745" height="999" alt="image" src="https://github.com/user-attachments/assets/032e3419-d185-468e-9c7b-dd2cd0c40538" />
-
+<img width="1907" height="569" alt="image" src="https://github.com/user-attachments/assets/c7cee0e0-40e0-42ad-a6b0-076c26f0f765" />
 **Result:**
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
